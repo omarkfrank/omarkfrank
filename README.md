@@ -1,42 +1,64 @@
-### Seja bem vindo! 👋
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&center=true&vCenter=true&width=800&color=F7DF1E&lines=Full+Stack+JavaScript+Developer" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarkfrank/)
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&center=true&vCenter=true&width=800&color=339933&lines=React+%7C+Node.js+%7C+APIs+%7C+SQL+%7C+Axios;Building+real+world+projects" />
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarkfrank&show_icons=true&theme=dracula)
+# 🧑🏻‍💻 Olá, eu sou o Mark Frank
 
-## Experiência em Tecnologias
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/> JavaScript Full-Stack Developer
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css3" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="express" src= "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="vuejs" src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img align="center" alt="csharp" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="dotnet" src= "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img align="center" alt="jquery" src= "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img align="center" alt="java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="mysql" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="sqlite" src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img align="center" alt="postgresql" src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="oracle" src= "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />  
-</div><br/>
+⚙️ Construindo aplicações web escaláveis com **React | Node.js | Express | PostgreSQL**  
+🛰️ Entusiasta por soluções práticas, clean code e UX intuitiva
 
-- Formado em Análise e Desenvolvimento de Sistemas com oportunidades vividas em análise de documentos de requisitos para desenvolvimento e manutenção de software, participação ativa no desenvolvimento com pesquisas e práticas e mais recentemente realizando testes de sistemas, criando evidências e as documentando .
+---
 
-- Possuo sólidas experiências nas áreas de TI e Desenvolvimento de Sistemas, atuando no atendimento de demandas de usuários em redes, sistemas e equipamentos, resolução de falhas de autenticação e integração de sistemas, configuração e instalação de servidores, realização de backups, análise de processos e apresentação de soluções tecnológicas focadas em eficiência e custos.
+## 🔧 Tech Stack
 
-- Expertise na construção de relacionamento com equipes técnicas e comerciais, usuários e com lideranças internas, com alinhamento estratégico para atendimento de cronogramas e metas.
+<p align="center">
 
-- Produção e reporte de dados da Gestão Tecnológica e de Projetos, preparação de relatórios técnicos e análise de indicadores de satisfação de clientes, apoiando os processos de tomada de decisão.
+<img src="https://img.shields.io/badge/JavaScript-ES6+-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=336791" />
 
-- Prestação de suporte técnico para equipes, acompanhamento de rotinas para garantia de atendimento de políticas internas de segurança, qualidade de serviços e satisfação de clientes.
+<br/>
 
-💡 Sou um eterno curioso e aprendiz. Trabalho constantemente pela melhoria contínua de minha melhor versão. Minha automotivação para encontrar novas soluções com a máxima qualidade é algo de que me orgulho muito
+<img src="https://img.shields.io/badge/Axios-0A0A0A?style=for-the-badge&logo=axios&logoColor=5A29E4" />
+<img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 
-<div>
-   <img align="center" alt="gmail" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</div>
+</p>
 
+---
 
+## 🗳️ Projetos em destaque
+
+### 🛠️ <a href="https://github.com/omarkfrank/chatgpt-clone">Projeto Fullstack integrando Node.js + React + OpenAI API (versão moderna v1)</a>
+
+💡 _ChatGPT-Clone:_ Clone simplificado do ChatGPT;  
+📌 Tech: Vite, React, Axios, Node.js, Express e a OpenAI API (SDK v1);  
+🔗 Código: [https://github.com/omarkfrank/chatgpt-clone](https://github.com/omarkfrank/chatgpt-clone);
+
+---
+
+### 📦 <a href="https://github.com/omarkfrank/Pokedex">Projeto Frontend integrando HTML5 + CSS3 + JS + Poké API</a>
+
+💡 _Pokédex do Mark:_ Aplicação web moderna consumindo a PokéAPI para exibir uma Pokédex, totalmente estilizada, interativa e com foco em desempenho e experiência do usuário;  
+📌 Tech: HTML5 + CSS3 + JS(ES Modules) + Fetch API + Poké API;  
+🔗 [https://github.com/omarkfrank/Pokedex](https://github.com/omarkfrank/Pokedex)
+
+---
+
+## 📊 Stats & GitHub Activity
+
+![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarkfrank&show_icons=true&theme=radical)
+
+---
+
+## 📬 Contato
+
+[![Email](https://img.shields.io/badge/Email-omarkfrank%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:omarkfrank@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Frank-6C2BD9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarkfrank//)
