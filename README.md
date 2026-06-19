@@ -59,6 +59,6 @@
 
 ## 📬 Contato
 
-[![Email](https://img.shields.io/badge/Email-omarkfrank%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:omarkfrank@gmail.com)
+[![Email](https://img.shields.io/badge/Email-omarkfrank.dev%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:omarkfrank@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Frank-6C2BD9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarkfrank//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Frank-6C2BD9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarkfrank-dev//)
